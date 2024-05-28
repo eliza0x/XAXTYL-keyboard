@@ -1,0 +1,9 @@
+{
+  "name": "XAXTYL",
+  "vendorId": "0xE114",
+  "productId": "0x0001",
+  "matrix": {"rows": 4, "cols": 10},
+  "layouts": {
+    "keymap": []
+  }
+}
